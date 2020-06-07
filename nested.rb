@@ -134,4 +134,5 @@ def adding_to_dennis
      }
 
   programmer_hash[:alan_kay][:known_for] = alan_kay_is_known_for
+  programmer_hash
 end
